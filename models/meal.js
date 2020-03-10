@@ -8,7 +8,7 @@ class Meal {
         affordability, 
         complexity, 
         imageUrl, 
-        duartion, 
+        duration, 
         ingredients, 
         steps, 
         isGlutenFree, 
@@ -22,7 +22,7 @@ class Meal {
             this.affordability = affordability;
             this.complexity = complexity;
             this.imageUrl = imageUrl;
-            this.duartion = duartion;
+            this.duration = duration;
             this.ingredients = ingredients;
             this.steps = steps;
             this.isGlutenFree = isGlutenFree;
